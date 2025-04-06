@@ -1,7 +1,7 @@
 # InfoVis Redesign Project
 
 Final project for the Information Visualization course.  
-This repository contains a redesign of BlueDot Observatory’s Theewaterskloof Dam visualization, simulated using SaaS sales data.
+This repository contains a redesign of visualization, simulated using SaaS sales data.
 
 ## Contents
 
