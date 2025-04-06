@@ -7,7 +7,6 @@ This repository contains a redesign of BlueDot Observatory’s Theewaterskloof D
 
 - `data/`: Simulated dataset used for dashboard visualization.
 - `images/`: Output visualizations including multi-view dashboard.
-- `notebooks/`: (Optional) Jupyter notebooks for exploration.
 - `code/`: Python scripts used to generate each component of the dashboard.
 
 ## Tools Used
