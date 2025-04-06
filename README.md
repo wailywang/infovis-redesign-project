@@ -12,7 +12,6 @@ This repository contains a redesign of BlueDot Observatory’s Theewaterskloof D
 ## Tools Used
 
 - Python (Pandas, Matplotlib, Seaborn, Plotly)
-- Jupyter Notebook
 - GitHub for version control and sharing
 
 ## Visual Encodings
