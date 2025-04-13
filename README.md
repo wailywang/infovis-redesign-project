@@ -26,7 +26,7 @@ This repository contains a redesign of visualization, simulated using SaaS sales
 ## Clone this Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/wailywang/infovis-redesign-project.git
 ```
 
 ---
