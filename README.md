@@ -25,8 +25,6 @@ This repository contains a redesign of visualization, simulated using SaaS sales
 
 ---
 
-![divider](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/hr.svg)
-
 ## Share with the Community
 
 Please consider sharing a post about this project and the value it provides. It really does help!
