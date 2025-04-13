@@ -23,6 +23,11 @@ This repository contains a redesign of visualization, simulated using SaaS sales
 - **Scatter plot**: Profit vs. industry count by country (Seaborn)
 - **Choropleth map**: Total profit by country (Plotly)
 
+## Clone this Repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+
 ---
 
 ## Share with the Community
