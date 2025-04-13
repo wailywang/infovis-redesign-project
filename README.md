@@ -1,6 +1,8 @@
 # InfoVis Redesign Project
 
-Final project for the Information Visualization course.  
+![Project Poster](images/poster.png)
+
+_Final project for the Information Visualization course._  
 This repository contains a redesign of visualization, simulated using SaaS sales data.
 
 ## Contents
