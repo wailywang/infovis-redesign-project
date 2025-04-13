@@ -22,3 +22,12 @@ This repository contains a redesign of visualization, simulated using SaaS sales
 - **Line chart**: Monthly profit trend by industry (Matplotlib)
 - **Scatter plot**: Profit vs. industry count by country (Seaborn)
 - **Choropleth map**: Total profit by country (Plotly)
+
+## Share with the Community
+
+Please consider sharing a post about this project and the value it provides — it really does help!
+
+⭐ GitHub Repo stars  ⭐ GitHub Repo stars  ⭐ GitHub Repo stars  
+⭐ GitHub Repo stars  ⭐ GitHub Repo stars  ⭐ GitHub Repo stars
+
+> _Support the project by starring and sharing!_
