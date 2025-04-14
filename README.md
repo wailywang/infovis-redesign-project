@@ -31,6 +31,8 @@ git clone https://github.com/wailywang/infovis-redesign-project.git
 
 ---
 
+![divider](https://raw.githubusercontent.com/kamranahmedse/developer-roadmap/master/images/hr.svg)
+
 ## Share with the Community
 
 Please consider sharing a post about this project and the value it provides. It really does help!
@@ -42,4 +44,3 @@ Please consider sharing a post about this project and the value it provides. It 
 [![Share on LinkedIn](https://img.shields.io/badge/share%20on-linkedin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/shareArticle)
 
 ---
-
