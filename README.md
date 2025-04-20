@@ -5,7 +5,8 @@
 _Final project for the INFOSCI 301 – Information Visualization and Information Aesthetics course at Duke Kunshan University._  
 This repository presents a comprehensive redesign of a water quality visualization using a multiview dashboard approach. The project transforms a single-line temporal plot into a rich, theory-informed analytical interface for exploratory data tasks.
 
-## Contents
+## Project Structure
+This project was inspired by the original surface water visualization from the [BlueDot Observatory](https://aws.amazon.com/cn/blogs/publicsector/bluedot-observatory-keeping-an-eye-on-our-planets-water-resources/), which visualized seasonal surface water dynamics globally. The current redesign reimagines that work using a multivariate dataset and theory-guided visual encodings.
 
 - `data/`: Water potability dataset from Kaggle
 - `images/`: All output visualizations including the final dashboard and analysis diagrams
@@ -28,7 +29,7 @@ The dataset presents a multi-dimensional view of chemical indicators used to ass
 ## Tools Used
 
 - Python (Pandas, Matplotlib, Seaborn, Plotly)
--GitHub for version control and reproducibility
+- GitHub for version control and reproducibility
 
 ## Visual Encodings
 
