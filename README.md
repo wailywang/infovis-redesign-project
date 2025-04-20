@@ -2,7 +2,7 @@
 
 ![Project Poster](images/poster.png)
 
-_Final project for the INFOSCI 301 – Information Visualization and Information Aesthetics course at Duke Kunshan University._  
+_InfoVis Redesign Project for the INFOSCI 301 – Information Visualization and Information Aesthetics course at Duke Kunshan University._  
 This repository presents a comprehensive redesign of a water quality visualization using a multiview dashboard approach. The project transforms a single-line temporal plot into a rich, theory-informed analytical interface for exploratory data tasks.
 
 ## Project Structure
@@ -45,6 +45,10 @@ The dataset presents a multi-dimensional view of chemical indicators used to ass
 ```bash
 git clone https://github.com/wailywang/infovis-redesign-project.git
 ```
+
+## Acknowledgements
+
+This project was completed as part of the course **INFOSCI 301 – Data Visualization and Information Aesthetics** at Duke Kunshan University. I would like to sincerely thank **Prof. Luyao Zhang** for her guidance throughout the semester, and **Prof. Ming-Chun Huang** for his valuable feedback during the DKU Digital Technology for Sustainability Symposium. Special thanks also go to **Dr. Dongping Liu** and **Dr. David Schaaf** for their helpful insights and encouragement during the development of this project.
 
 ---
 
