@@ -2,26 +2,42 @@
 
 ![Project Poster](images/poster.png)
 
-_Final project for the Information Visualization course._  
-This repository contains a redesign of visualization, simulated using SaaS sales data.
+_Final project for the INFOSCI 301 – Information Visualization and Information Aesthetics course at Duke Kunshan University._  
+This repository presents a comprehensive redesign of a water quality visualization using a multiview dashboard approach. The project transforms a single-line temporal plot into a rich, theory-informed analytical interface for exploratory data tasks.
 
 ## Contents
 
-- `data/`: Simulated dataset used for dashboard visualization.
-- `images/`: Output visualizations including multi-view dashboard.
-- `code/`: Python scripts used to generate each component of the dashboard.
+- `data/`: Water potability dataset from Kaggle
+- `images/`: All output visualizations including the final dashboard and analysis diagrams
+- `code/`: Modular Python scripts to generate and compose the dashboard
+
+## Dataset Description
+
+**Source**: [Water Potability Dataset on Kaggle](https://www.kaggle.com/code/nimapourmoradi/water-potability/input)  
+**Samples**: 3,276 water samples  
+**Variables**:
+- `ph`: Acidity level (0–14 scale)
+- `Hardness`: Calcium and magnesium concentration (mg/L)
+- `Solids`: Dissolved solids (ppm)
+- `Chloramines`: Disinfectant chemical (ppm)
+- `Sulfate`, `Conductivity`, `Organic_carbon`, `Trihalomethanes`, `Turbidity`
+- `Potability`: Binary classification (0 = Not potable, 1 = Potable)
+
+The dataset presents a multi-dimensional view of chemical indicators used to assess water drinkability. Missing values were imputed using column-wise means. Data exploration and statistical normalization were performed prior to encoding.
 
 ## Tools Used
 
 - Python (Pandas, Matplotlib, Seaborn, Plotly)
-- GitHub for version control and sharing
+-GitHub for version control and reproducibility
 
 ## Visual Encodings
 
-- **Donut chart**: Profit distribution by industry (Matplotlib)
-- **Line chart**: Monthly profit trend by industry (Matplotlib)
-- **Scatter plot**: Profit vs. industry count by country (Seaborn)
-- **Choropleth map**: Total profit by country (Plotly)
+- **Histogram**: Feature distributions split by potability (Seaborn)
+- **Scatter plot**: Variable relationships (Seaborn)
+- **Box/Violin plot**: Statistical comparison of distributions (Seaborn)
+- **Donut/Pie chart**: Potability proportion (Matplotlib)
+- **Correlation heatmap**: Feature dependencies (Seaborn)
+- **Grouped bar plot**: Mean values by class (Matplotlib)
 
 ## Clone this Repository
 
