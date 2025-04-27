@@ -48,7 +48,7 @@ git clone https://github.com/wailywang/infovis-redesign-project.git
 
 ## Acknowledgements
 
-This project was completed as part of the course **INFOSCI 301 – Data Visualization and Information Aesthetics** at Duke Kunshan University. I would like to sincerely thank **Prof. Luyao Zhang** for her guidance throughout the semester, and **Prof. Ming-Chun Huang** for his valuable feedback during the DKU Digital Technology for Sustainability Symposium. Special thanks also go to **Dr. Dongping Liu** and **Dr. David Schaaf** for their helpful insights and encouragement during the development of this project.
+This project was completed as part of the course **INFOSCI 301 – Data Visualization and Information Aesthetics** at Duke Kunshan University. I would like to sincerely thank **Prof. Luyao Zhang** for her guidance throughout the semester, and **Prof. Ming-Chun Huang** for his valuable feedback during the DKU Digital Technology for Sustainability Symposium. Special thanks also go to **Dr. Dongping Liu** and **Dr. David Schaaf** for their helpful insights and encouragement during the development of this project. Lastly, I thank my classmates in INFOSCI 301 for their thoughtful input and collaboration during the semester.
 
 ---
 
